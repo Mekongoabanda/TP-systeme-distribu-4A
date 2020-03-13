@@ -1,0 +1,2 @@
+public class ElectionLc2 {
+}
